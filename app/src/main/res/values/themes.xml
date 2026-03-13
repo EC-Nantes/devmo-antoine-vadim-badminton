@@ -1,0 +1,6 @@
+<resources>
+    <!-- On utilise un thème Material3 plus simple et compatible avec Compose -->
+    <style name="Theme.Badminton" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- On laisse les couleurs par défaut de Material3 pour l'instant -->
+    </style>
+</resources>

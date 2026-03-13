@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.badminton.app-merged_res-44:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.badminton.app-main-46:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.badminton.app-merged_res-44:/layout_activity_main.xml.flat",
+        "source": "com.example.badminton.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.badminton.app-merged_res-44:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.badminton.app-main-46:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.badminton.app-merged_res-44:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.badminton.app-main-46:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.badminton.app-merged_res-44:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.badminton.app-main-46:/drawable/ic_launcher_background.xml"
+    }
+]
